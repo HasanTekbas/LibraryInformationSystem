@@ -1,0 +1,15 @@
+C:\Users\hasan\Desktop\Library\Library\bin\Debug\Library.exe.config
+C:\Users\hasan\Desktop\Library\Library\bin\Debug\Library.exe
+C:\Users\hasan\Desktop\Library\Library\bin\Debug\Library.pdb
+C:\Users\hasan\Desktop\Library\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\hasan\Desktop\Library\Library\obj\Debug\Library.logın.resources
+C:\Users\hasan\Desktop\Library\Library\obj\Debug\Library.Mainboard.resources
+C:\Users\hasan\Desktop\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\hasan\Desktop\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\hasan\Desktop\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\hasan\Desktop\Library\Library\obj\Debug\Library.exe
+C:\Users\hasan\Desktop\Library\Library\obj\Debug\Library.pdb
+C:\Users\hasan\Desktop\Library\Library\obj\Debug\Library.addrecord.resources
+C:\Users\hasan\Desktop\Library\Library\obj\Debug\Library.deleterecord.resources
+C:\Users\hasan\Desktop\Library\Library\obj\Debug\Library.enrollmentlist.resources
+C:\Users\hasan\Desktop\Library\Library\obj\Debug\Library.updaterecord.resources
